@@ -2,7 +2,6 @@
 - 🔭 I’m currently working at [Perugluglu Interactive](https://perugluglu.net/)
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on **JavaScript, HTML, CSS**
-- 📫 How to reach me ...
 
 <br><br>
 
