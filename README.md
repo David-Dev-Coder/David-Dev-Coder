@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @David-Dev-Coder
+- 👋 Hi, I’m David Alisson, Web Developer
 - 🔭 I’m currently working at [Perugluglu Interactive](https://perugluglu.net/)
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on **JavaScript, HTML, CSS**
