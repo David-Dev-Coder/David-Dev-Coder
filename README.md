@@ -1,17 +1,25 @@
-- 👋 Hi, I’m David Alisson, Web Developer
-- 🌱 I’m currently learning ReactJS and NextJS
-- 💞️ I’m looking to collaborate on **JavaScript, HTML, CSS**
+# David Alisson | Desenvolvedor Frontend
 
-<br><br>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/david-alisson-656449260/)
 
-## 🛠 &nbsp;Tech Stack
+## Sobre Mim
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+- Graduando em Análise e Desenvolvimento de Sistemas na FATEC São Paulo.
+- Formado em Desenvolvimento de Sistemas pela ETEC.
+- Experiência de um pouco mais de 3 anos na área.
 
-<br><br>
+## Tecnologias principais
+
+### Linguagens
+![Skills](https://skillicons.dev/icons?i=js,java,py,c,html,css)
+<br/>
+
+### Ferramentas
+![Skills](https://skillicons.dev/icons?i=git,github,mysql)
+
+### Frameworks e Bibliotecas
+![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery)
+<br/>
 <!---
 David-Dev-Coder/David-Dev-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
