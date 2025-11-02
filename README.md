@@ -11,14 +11,14 @@
 ## Tecnologias principais
 
 ### Linguagens
-![Skills](https://skillicons.dev/icons?i=js,java,py,c,html,css)
+![Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,html,css)
 <br/>
 
 ### Ferramentas
-![Skills](https://skillicons.dev/icons?i=git,github,mysql)
+![Skills](https://skillicons.dev/icons?i=git,github,mysql,postgres)
 
 ### Frameworks e Bibliotecas
-![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery)
+![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,sass)
 <br/>
 <!---
 David-Dev-Coder/David-Dev-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
