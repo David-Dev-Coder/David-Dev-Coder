@@ -6,16 +6,17 @@
 
 - Graduando em Análise e Desenvolvimento de Sistemas na FATEC São Paulo.
 - Formado em Desenvolvimento de Sistemas pela ETEC.
-- Experiência de um pouco mais de 3 anos na área.
+- Experiência de 4 anos atuando como Frontend.
+- Estudando as principais tecnologias de Backend por agora.
 
 ## Tecnologias principais
 
 ### Linguagens
-![Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,html,css)
+![Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,php,html,css)
 <br/>
 
 ### Ferramentas
-![Skills](https://skillicons.dev/icons?i=git,github,mysql,postgres)
+![Skills](https://skillicons.dev/icons?i=git,github,mysql,postgres,docker)
 
 ### Frameworks e Bibliotecas
 ![Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,sass)
